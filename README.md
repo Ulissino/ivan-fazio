@@ -1,62 +1,94 @@
-<h1 align="center">Hi there 👋, I'm Ivan Fazio</h1>
-<h3 align="center">💻 Computer Engineering Student | Web & Software Developer | Tech Enthusiast</h3>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🎓 Percorso Formativo
 
-- 🎓 I'm studying **Computer Engineering** at the **Polytechnic University of Milan**  
-- 🌐 I develop **web applications** using **Angular**, **Java**, and **Python**  
-- 🧩 Passionate about **database design** and tackling **complex architectures**  
-- 🤝 I love contributing to **open-source** projects and collaborating with others  
-- ⚡ Fun fact: I enjoy learning new frameworks and optimizing code for performance  
+### 🏢 ELIS - Digital Excellence
+**Corso di Formazione in Sviluppo Software**
 
----
+- 💻 **Tecnologie Web**: Java, Spring, Angular, React
+- 🗄️ **Database Design**: SQL, MySQL
+- 🏗️ **Software Architecture**: Design Patterns, MVC, REST API
+- 🔧 **Best Practices**: Clean Code, Git, Testing
+- 👥 **Soft Skills**: Teamwork, Problem Solving, Project Management
 
-### 🛠️ Languages & Tools
+ELIS è un'istituzione di eccellenza nella formazione digitale italiana, nota per preparare professionisti altamente qualificati nel settore IT.
 
-#### 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-fazio&layout=compact&theme=radical)
 
-#### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-</p>
+## 🤝 Collaboriamo Insieme!
 
----
+Sono sempre aperto a nuove opportunità, collaborazioni e progetti interessanti. Se hai un'idea o vuoi lavorare insieme, non esitare a contattarmi!
 
-### 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan-fazio&show_icons=true&theme=radical" alt="Ivan Fazio's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=ivan-fazio&theme=radical&border_radius=6" alt="GitHub Streak"/>
-</p>
+### 📫 Come Contattarmi
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ulissino-181717?style=for-the-badge&logo=github)](https://github.com/Ulissino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Fazio-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ivan-fazio-2b27b5298)
+[![Instagram](https://img.shields.io/badge/Instagram-_ivanfazio__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ivanfazio_)
+
+</div>
+
+### 💼 Interessi di Collaborazione
+
+- 🌐 Progetti **Full Stack** (Java + Angular/React)
+- 🏗️ Applicazioni **Enterprise** con Spring Boot
+- 🔓 Progetti **Open-Source**
+- 📚 **Mentoring** e formazione
+- 🚀 **Startup** e progetti innovativi
 
 ---
 
-### 🌍 Connect with Me
+## 📈 Attività GitHub
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ivan-fazio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ivan.fazio@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ulissino&theme=tokyo-night&hide_border=true&area=true)
+
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+
+## 📊 Statistiche Settimanali
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🌐 Seguimi su
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-21_followers-181717?style=flat-square&logo=github)](https://github.com/Ulissino?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ivan-fazio-2b27b5298)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_ivanfazio_)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 *"Every master was once a beginner. Keep coding, keep learning!"*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+**Made with ❤️ and ☕ in Rome, Italy** 🇮🇹
+
+⭐ **Se ti piacciono i miei progetti, lascia una stella!** ⭐
+
+[![Star History](https://img.shields.io/github/stars/Ulissino?affiliations=OWNER&style=social)](https://github.com/Ulissino)
+
+⬆️ [Torna su](#-ciao-sono-ivan-fazio)
+
+---
+
+
+</div>
